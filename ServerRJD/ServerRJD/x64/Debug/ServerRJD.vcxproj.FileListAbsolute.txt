@@ -1,0 +1,4 @@
+C:\Users\Skrymer\source\repos\ServerRJD\ServerRJD\x64\Debug\ServerRJD.vcxproj.AssemblyReference.cache
+C:\Users\Skrymer\source\repos\ServerRJD\ServerRJD\x64\Debug\ServerRJD.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Skrymer\source\repos\TestRJD\TestRJD\ServerRJD\ServerRJD\x64\Debug\ServerRJD.vcxproj.AssemblyReference.cache
+C:\Users\Skrymer\source\repos\TestRJD\TestRJD\ServerRJD\ServerRJD\x64\Debug\ServerRJD.vcxproj.SuggestedBindingRedirects.cache

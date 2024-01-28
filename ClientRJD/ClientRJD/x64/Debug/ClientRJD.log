@@ -1,0 +1,8 @@
+﻿  ClientForm.cpp
+C:\Users\Skrymer\source\repos\TestRJD\TestRJD\ClientRJD\ClientRJD\ClientForm.cpp(35,25): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Skrymer\source\repos\TestRJD\TestRJD\ClientRJD\ClientRJD\ClientForm.cpp(76,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Main.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  ClientForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ClientRJD.vcxproj -> C:\Users\Skrymer\source\repos\TestRJD\TestRJD\ClientRJD\x64\Debug\ClientRJD.exe

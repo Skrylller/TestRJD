@@ -1,0 +1,4 @@
+C:\Users\Skrymer\source\repos\TestRJD\TestRJD\ClientRJD\ClientRJD\x64\Release\ClientRJD.vcxproj.AssemblyReference.cache
+C:\Users\Skrymer\source\repos\TestRJD\TestRJD\ClientRJD\ClientRJD\x64\Release\ClientRJD.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Skrymer\source\repos\TestRJD\TestRJD\ClientRJD\ClientRJD\x64\Release\ClientRJD.ClientForm.resources
+C:\Users\Skrymer\source\repos\TestRJD\TestRJD\ClientRJD\ClientRJD\x64\Release\ClientRJD.vcxproj.GenerateResource.cache
